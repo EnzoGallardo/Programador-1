@@ -2,7 +2,3 @@ carne
 pan
 fideos
 arroz
-lentejas
-huevos
-sal
-pimienta
